@@ -1,0 +1,61 @@
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\background.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\blockEffect.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\CameraBounds.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\debug.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\healthbar.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\healthbar_base.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\healthbar_border.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\hitBox.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\hitEffect.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\hurtBox.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\Impact 1.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\Impact 2.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\Impact 3.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\kairosNamePlate.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\KairosPortrait.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\kairosTooNamePlate.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\KairosTooPortrait.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\KairosToo_sprites.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\Kairos_sprites.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\MainMenu.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\MainMenuBetter.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\musicTest.ogg
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\musicTest.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\Options.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\Pause.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\Player1Selector.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\Player2Selector.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\player_collisionBox.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\Results.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\RoundIcons.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\Rules.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\scroll.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\Selection.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\solid.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\Stage.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\Stars and Stripes.ogg
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Content\Stars and Stripes.xnb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Project Fisticuffs.exe
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Project Fisticuffs.deps.json
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Project Fisticuffs.runtimeconfig.json
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Project Fisticuffs.runtimeconfig.dev.json
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Project Fisticuffs.dll
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\Project Fisticuffs.pdb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\obj\Debug\netcoreapp3.1\Project Fisticuffs.csproj.AssemblyReference.cache
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\obj\Debug\netcoreapp3.1\Project Fisticuffs.GeneratedMSBuildEditorConfig.editorconfig
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\obj\Debug\netcoreapp3.1\Project Fisticuffs.AssemblyInfoInputs.cache
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\obj\Debug\netcoreapp3.1\Project Fisticuffs.AssemblyInfo.cs
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\obj\Debug\netcoreapp3.1\Project Fisticuffs.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\obj\Debug\netcoreapp3.1\Project Fisticuffs.csproj.CopyComplete
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\obj\Debug\netcoreapp3.1\Project Fisticuffs.dll
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\obj\Debug\netcoreapp3.1\Project Fisticuffs.pdb
+Z:\IGMProfile\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\obj\Debug\netcoreapp3.1\Project Fisticuffs.genruntimeconfig.cache

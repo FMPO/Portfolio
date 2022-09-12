@@ -1,0 +1,24 @@
+Kairos
+walk speed,2
+run speed,5
+back dash speed,6
+jump strength,9
+stand height,64
+crouch height,32
+jump squat,4
+landing lag,2
+back dash duration,9
+total health,200
+###	
+KairosToo
+walk speed,2
+run speed,5
+back dash speed,6
+jump strength,9
+stand height,64
+crouch height,32
+jump squat,4
+landing lag,2
+back dash duration,9
+total health,200
+###

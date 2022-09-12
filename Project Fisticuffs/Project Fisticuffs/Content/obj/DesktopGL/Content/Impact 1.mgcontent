@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Impact 1.mp3</SourceFile>
+  <SourceTime>2022-09-12T13:19:11.8563755-04:00</SourceTime>
+  <DestFile>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/bin/DesktopGL/Content/Impact 1.xnb</DestFile>
+  <DestTime>2022-09-12T13:25:26.2013175-04:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T12:17:54-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T12:17:54-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
