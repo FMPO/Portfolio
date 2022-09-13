@@ -25,6 +25,7 @@
     <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/KairosTooPortrait.png</File>
     <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/MainMenu.png</File>
     <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/MainMenuBetter.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/musicTest.mp3</File>
     <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Options.png</File>
     <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Pause.png</File>
     <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/player_collisionBox.png</File>
@@ -40,6 +41,7 @@
     <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Stars and Stripes.mp3</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

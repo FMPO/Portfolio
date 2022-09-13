@@ -1,4 +1,4 @@
-﻿ using Microsoft.Xna.Framework;
+﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Audio;
@@ -916,7 +916,7 @@ namespace Project_Fisticuffs
         /// </summary>
         public void LoadGameplay()
         {
-            ////play music
+            //play music
             //if (p1Score == 0 && p2Score == 0)
             //{
             //    MediaPlayer.Play(musicTest);
