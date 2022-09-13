@@ -1,4 +1,4 @@
-﻿using Microsoft.Xna.Framework;
+﻿ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Audio;
@@ -41,8 +41,8 @@ namespace Project_Fisticuffs
         List<SoundEffect> playerSounds;
 
         //music
-        protected Song musicTest;
-        protected Song patriotism;
+        //protected Song musicTest;
+        //protected Song patriotism;
 
         //Font
         private SpriteFont debugFont;
@@ -217,8 +217,8 @@ namespace Project_Fisticuffs
             blockEffectTexture = Content.Load<Texture2D>("blockEffect");
 
             //music
-            musicTest = Content.Load<Song>("musicTest");
-            patriotism = Content.Load<Song>("Stars and Stripes");
+            //musicTest = Content.Load<Song>("musicTest");
+            //patriotism = Content.Load<Song>("Stars and Stripes");
 
 
             //Background Screens 
@@ -916,12 +916,12 @@ namespace Project_Fisticuffs
         /// </summary>
         public void LoadGameplay()
         {
-            //play music
-            if (p1Score == 0 && p2Score == 0)
-            {
-                MediaPlayer.Play(musicTest);
-                MediaPlayer.IsRepeating = true;
-            }
+            ////play music
+            //if (p1Score == 0 && p2Score == 0)
+            //{
+            //    MediaPlayer.Play(musicTest);
+            //    MediaPlayer.IsRepeating = true;
+            //}
 
 
 

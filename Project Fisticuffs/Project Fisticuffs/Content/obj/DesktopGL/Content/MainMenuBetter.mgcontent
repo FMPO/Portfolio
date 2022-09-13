@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/MainMenuBetter.png</SourceFile>
-  <SourceTime>2022-09-12T13:19:11.9134729-04:00</SourceTime>
-  <DestFile>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/bin/DesktopGL/Content/MainMenuBetter.xnb</DestFile>
-  <DestTime>2022-09-12T13:25:29.0713845-04:00</DestTime>
+  <SourceFile>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/MainMenuBetter.png</SourceFile>
+  <SourceTime>2022-09-13T17:18:07.287205-04:00</SourceTime>
+  <DestFile>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/bin/DesktopGL/Content/MainMenuBetter.xnb</DestFile>
+  <DestTime>2022-09-13T17:19:03.8536053-04:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2020-08-10T12:17:54-04:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

@@ -4,44 +4,42 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/background.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/blockEffect.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/CameraBounds.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/debug.spritefont</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/healthbar.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/healthbar_base.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/healthbar_border.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/hitBox.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/hitEffect.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/hurtBox.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Impact 1.mp3</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Impact 2.mp3</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Impact 3.mp3</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Kairos_sprites.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/kairosNamePlate.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/KairosPortrait.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/KairosToo_sprites.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/kairosTooNamePlate.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/KairosTooPortrait.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/MainMenu.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/MainMenuBetter.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/musicTest.mp3</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Options.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Pause.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/player_collisionBox.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Player1Selector.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Player2Selector.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Results.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/RoundIcons.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Rules.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/scroll.mp3</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Selection.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/solid.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Stage.png</File>
-    <File>Z:/IGMProfile/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Stars and Stripes.mp3</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/background.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/blockEffect.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/CameraBounds.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/debug.spritefont</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/healthbar.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/healthbar_base.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/healthbar_border.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/hitBox.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/hitEffect.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/hurtBox.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Impact 1.mp3</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Impact 2.mp3</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Impact 3.mp3</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Kairos_sprites.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/kairosNamePlate.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/KairosPortrait.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/KairosToo_sprites.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/kairosTooNamePlate.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/KairosTooPortrait.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/MainMenu.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/MainMenuBetter.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Options.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Pause.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/player_collisionBox.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Player1Selector.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Player2Selector.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Results.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/RoundIcons.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Rules.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/scroll.mp3</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Selection.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/solid.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Stage.png</File>
+    <File>C:/Users/chris/OneDrive/Documents/GitHub/Portfolio/Project Fisticuffs/Project Fisticuffs/Content/Stars and Stripes.mp3</File>
   </SourceFiles>
   <DestFiles>
-    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
