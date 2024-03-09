@@ -15,7 +15,7 @@ namespace Project_Fisticuffs
     {
         MainMenu,
         CharacterSelect,
-        Settings,
+        Credits,
         GamePlay,
         HowToPlay,
         Pause,
@@ -170,8 +170,8 @@ namespace Project_Fisticuffs
             camera = new Camera(cameraBounds, cameraBox, solids, null, null, viewport, currentState, rng);
 
             // Menuing index
-            menuItems = new GameStates[] { GameStates.Settings, GameStates.HowToPlay, GameStates.Quit };
-            menuItemStrings = new string[] { "SETTINGS", "PLAY", "QUIT" };
+            menuItems = new GameStates[] { GameStates.Credits, GameStates.HowToPlay, GameStates.Quit };
+            menuItemStrings = new string[] { "CREDITS", "PLAY", "QUIT" };
             menuIndex = 1;
 
             // Character index
@@ -306,7 +306,7 @@ namespace Project_Fisticuffs
                         // Move to next state
                         switch (currentState)
                         {
-                            case GameStates.Settings:
+                            case GameStates.Credits:
                                 menuItems = new GameStates[] { GameStates.MainMenu };
                                 menuIndex = 0;
                                 break;
@@ -363,8 +363,8 @@ namespace Project_Fisticuffs
                                 break;
 
                             case GameStates.MainMenu:
-                                menuItems = new GameStates[] { GameStates.Settings, GameStates.HowToPlay, GameStates.Quit };
-                                menuItemStrings = new string[] { "SETTINGS", "PLAY", "QUIT" };
+                                menuItems = new GameStates[] { GameStates.Credits, GameStates.HowToPlay, GameStates.Quit };
+                                menuItemStrings = new string[] { "CREDITS", "PLAY", "QUIT" };
                                 menuIndex = 1;
                                 break;
                         }
@@ -436,8 +436,8 @@ namespace Project_Fisticuffs
                                 break;
 
                                 //case GameStates.MainMenu:
-                                //    menuItems = new GameStates[] { GameStates.Settings, GameStates.HowToPlay, GameStates.Quit };
-                                //    menuItemStrings = new string[] { "SETTINGS", "PLAY", "QUIT" };
+                                //    menuItems = new GameStates[] { GameStates.Credits, GameStates.HowToPlay, GameStates.Quit };
+                                //    menuItemStrings = new string[] { "CREDITS", "PLAY", "QUIT" };
                                 //    menuIndex = 1;
                                 //    break;
                         }
@@ -445,13 +445,13 @@ namespace Project_Fisticuffs
 
                     break;
 
-                case GameStates.Settings:
+                case GameStates.Credits:
 
                     if (p1Input.InputPressed(Inputs.Heavy, false) || p2Input.InputPressed(Inputs.Heavy, false) 
                         || (kbState.IsKeyDown(Keys.Back) && prevKbState.IsKeyUp(Keys.Back)))
                     {
-                        menuItems = new GameStates[] { GameStates.Settings, GameStates.HowToPlay, GameStates.Quit };
-                        menuItemStrings = new string[] { "SETTINGS", "PLAY", "QUIT" };
+                        menuItems = new GameStates[] { GameStates.Credits, GameStates.HowToPlay, GameStates.Quit };
+                        menuItemStrings = new string[] { "CREDITS", "PLAY", "QUIT" };
                         menuIndex = 1;
                         currentState = GameStates.MainMenu;
                     }
@@ -562,8 +562,8 @@ namespace Project_Fisticuffs
                         MediaPlayer.Stop();
                         p1Score = 0;
                         p2Score = 0;
-                        menuItems = new GameStates[] { GameStates.Settings, GameStates.HowToPlay, GameStates.Quit };
-                        menuItemStrings = new string[] { "SETTINGS", "PLAY", "QUIT" };
+                        menuItems = new GameStates[] { GameStates.Credits, GameStates.HowToPlay, GameStates.Quit };
+                        menuItemStrings = new string[] { "CREDITS", "PLAY", "QUIT" };
                         menuIndex = 1;
                     }
                     break;
@@ -611,8 +611,8 @@ namespace Project_Fisticuffs
                                 break;
 
                             case GameStates.MainMenu:
-                                menuItems = new GameStates[] { GameStates.Settings, GameStates.HowToPlay, GameStates.Quit };
-                                menuItemStrings = new string[] { "SETTINGS", "PLAY", "QUIT" };
+                                menuItems = new GameStates[] { GameStates.Credits, GameStates.HowToPlay, GameStates.Quit };
+                                menuItemStrings = new string[] { "CREDITS", "PLAY", "QUIT" };
                                 menuIndex = 1;
                                 break;
 
@@ -761,7 +761,7 @@ namespace Project_Fisticuffs
 
                     break;
 
-                case GameStates.Settings:
+                case GameStates.Credits:
 
                     _spriteBatch.Draw(optionsScreen, new Rectangle(0, 0, windowWidth, windowHeight), Color.White);
 

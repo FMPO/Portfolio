@@ -1,0 +1,61 @@
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\background.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\blockEffect.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\CameraBounds.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\debug.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\healthbar.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\healthbar_base.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\healthbar_border.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\hitBox.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\hitEffect.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\hurtBox.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\Impact 1.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\Impact 2.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\Impact 3.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\kairosNamePlate.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\KairosPortrait.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\kairosTooNamePlate.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\KairosTooPortrait.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\KairosToo_sprites.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\Kairos_sprites.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\MainMenu.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\MainMenuBetter.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\musicTest.ogg
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\musicTest.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\Options.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\Pause.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\Player1Selector.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\Player2Selector.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\player_collisionBox.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\Results.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\RoundIcons.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\Rules.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\scroll.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\Selection.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\solid.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\Stage.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\Stars and Stripes.ogg
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Content\Stars and Stripes.xnb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Project Fisticuffs.exe
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Project Fisticuffs.deps.json
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Project Fisticuffs.runtimeconfig.json
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Project Fisticuffs.runtimeconfig.dev.json
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Project Fisticuffs.dll
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\Project Fisticuffs.pdb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\bin\Release\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\obj\Release\netcoreapp3.1\Project Fisticuffs.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\obj\Release\netcoreapp3.1\Project Fisticuffs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\obj\Release\netcoreapp3.1\Project Fisticuffs.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\obj\Release\netcoreapp3.1\Project Fisticuffs.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\obj\Release\netcoreapp3.1\Project Fisticuffs.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\obj\Release\netcoreapp3.1\Project Fisticuffs.csproj.CopyComplete
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\obj\Release\netcoreapp3.1\Project Fisticuffs.dll
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\obj\Release\netcoreapp3.1\Project Fisticuffs.pdb
+C:\Users\chris\OneDrive\Documents\GitHub\Portfolio\Project Fisticuffs\Project Fisticuffs\obj\Release\netcoreapp3.1\Project Fisticuffs.genruntimeconfig.cache
