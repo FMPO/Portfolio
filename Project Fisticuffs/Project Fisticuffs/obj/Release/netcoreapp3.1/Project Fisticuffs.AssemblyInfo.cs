@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Project Fisticuffs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2e86a3e24a399129427142c2ee4e33c821224d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Project Fisticuffs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Project Fisticuffs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

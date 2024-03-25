@@ -178,19 +178,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\chris\\.nuget\\packages\\": {}
+    "C:\\Users\\ple5024\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\OneDrive\\Documents\\GitHub\\Portfolio\\Project Fisticuffs\\Project Fisticuffs\\Project Fisticuffs.csproj",
+      "projectUniqueName": "C:\\Users\\ple5024\\Documents\\GitHub\\Portfolio\\Project Fisticuffs\\Project Fisticuffs\\Project Fisticuffs.csproj",
       "projectName": "Project Fisticuffs",
-      "projectPath": "C:\\Users\\chris\\OneDrive\\Documents\\GitHub\\Portfolio\\Project Fisticuffs\\Project Fisticuffs\\Project Fisticuffs.csproj",
-      "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chris\\OneDrive\\Documents\\GitHub\\Portfolio\\Project Fisticuffs\\Project Fisticuffs\\obj\\",
+      "projectPath": "C:\\Users\\ple5024\\Documents\\GitHub\\Portfolio\\Project Fisticuffs\\Project Fisticuffs\\Project Fisticuffs.csproj",
+      "packagesPath": "C:\\Users\\ple5024\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ple5024\\Documents\\GitHub\\Portfolio\\Project Fisticuffs\\Project Fisticuffs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ple5024\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -241,7 +241,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
